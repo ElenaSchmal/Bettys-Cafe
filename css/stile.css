@@ -121,7 +121,7 @@ html, body{
 .foto-menu {
     width: 100%;
     min-height:90px;
-    background-image: url(../pict/bret-1.jpg);
+    background-image: url(./pict/bret-1.jpg);
     background-position: 0 0;
     background-repeat: no-repeat;
     block-size: 100% auto;
@@ -155,7 +155,7 @@ html, body{
 --------Блок Uber uns --------
 ------------------------------*/
 .kart{
-    background-image: url(../pict/222.jpg);
+    background-image: url(./pict/222.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -174,7 +174,7 @@ html, body{
 ----------Блок Menu ----------
 ------------------------------*/
 .kart-menu{
-    background-image: url(../pict/11.webp);
+    background-image: url(./pict/11.webp);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -266,7 +266,7 @@ details[open] summary::before{
 .kart_cafe{
     width: 35vw;
     height: 40vw;
-    background-image: url(../pict/3333.jpg);
+    background-image: url(./pict/3333.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }   
